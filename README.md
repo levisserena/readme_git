@@ -1,1 +1,1 @@
-[![LevisSerena](https://github.com/levisserena/readme_git/blob/main/png/LS.png)]
+![LevisSerena](https://github.com/levisserena/readme_git/blob/main/png/LS.png=100x20)
